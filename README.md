@@ -1,1 +1,21 @@
-# text-editor
+# Text Editor
+
+## Description
+
+In this repository I built a simple text editor that runs in the browser. The app is a single-page application that also functions offline. 
+
+## Usage
+
+Click this link to use the application: (link placeholder)
+
+Click the "install" button at the top left-hand corner of the page to use the application offline.
+
+(placeholder for screenshot)
+
+## Credits
+
+N/A
+
+## License
+
+See repository for license information.
