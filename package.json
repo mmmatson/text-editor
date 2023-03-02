@@ -2,7 +2,7 @@
   "name": "jate",
   "version": "1.0.0",
   "engines": {
-    "node": "18.x"
+    "node": "16.x"
   },
   "description": "## Description",
   "main": "server.js",
@@ -24,14 +24,15 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
-},
-"repository": {
-  "type": "git",
-  "url": "git+https://github.com/mmmatson/text-editor.git"
-},
-"bugs": {
-  "url": "https://github.com/mmmatson/text-editor/issues"
-},
-"homepage": "https://github.com/mmmatson/text-editor#readme"
+    "nodemon": "^2.0.4",
+    "webpack": "^5.75.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmatson/text-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmmatson/text-editor/issues"
+  },
+  "homepage": "https://github.com/mmmatson/text-editor#readme"
 }
